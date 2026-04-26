@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: ex9devopsagent
+pool: test_agent
 
 
 steps:
